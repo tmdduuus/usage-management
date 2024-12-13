@@ -1,0 +1,4 @@
+rootProject.name = 'plan-management'
+include 'plan-api'
+include 'plan-core'
+include 'plan-infrastructure'
